@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Incrementer tests renders the component 1`] = `
+<Fragment>
+  <p>
+    Times Clicked: 
+    0
+  </p>
+  <button
+    onClick={[Function]}
+  >
+    Click Me!
+  </button>
+</Fragment>
+`;
