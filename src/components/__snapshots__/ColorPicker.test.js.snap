@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ColorPicker tests renders ColorPicker 1`] = `
+<section
+  className="ColorPicker"
+>
+  <button
+    className="red"
+    onClick={[Function]}
+  >
+    Red
+  </button>
+  <button
+    className="yellow"
+    onClick={[Function]}
+  >
+    Yellow
+  </button>
+  <button
+    className="blue"
+    onClick={[Function]}
+  >
+    Blue
+  </button>
+  <div
+    className=""
+  />
+</section>
+`;
