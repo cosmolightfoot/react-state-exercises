@@ -1,0 +1,21 @@
+.ColorPicker {
+  button {
+    border: none;
+    padding: 1em;
+
+    cursor: pointer;
+  }
+
+  .red {
+    background-color: red;
+  }
+
+  .yellow {
+    background-color: yellow;
+  }
+
+  .blue {
+    background-color: blue;
+    color: white;
+  }
+}
